@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-####### 
+
    The purpose of the project is to edit or refactor the AllStocksAnalysis module code for Steve in order to improve the run times. Steve would like to be able to make the code run more efficiently and potentially apply to larger stocks analysis. To edit or refactor the module code, we created an index and output arrays and used for loops to go over the data.
 
 ## Results
@@ -11,24 +11,24 @@
 
 #### 2017 Stocks Analysis
 
-![<img width="1440" alt="Screen Shot 2022-09-22 at 9 18 27 AM" src="https://user-images.githubusercontent.com/8636886/191884778-91788c86-04d7-453a-9821-2abc2794bfc1.png">]
+<img width="1440" alt="Screen Shot 2022-09-22 at 9 18 27 AM" src="https://user-images.githubusercontent.com/8636886/191884778-91788c86-04d7-453a-9821-2abc2794bfc1.png">
 
 #### 2018 Stocks Analysis
 
-![<img width="1440" alt="Screen Shot 2022-09-22 at 9 17 43 AM" src="https://user-images.githubusercontent.com/8636886/191884890-b2112efe-8fb4-42e5-9bf6-7cdd486cdcdf.png">]
+<img width="1440" alt="Screen Shot 2022-09-22 at 9 17 43 AM" src="https://user-images.githubusercontent.com/8636886/191884890-b2112efe-8fb4-42e5-9bf6-7cdd486cdcdf.png">
 
 
 ###  Run Times Performance Comparison for 2017 and 2018 after refactoring
 
 #### 2017 Stock Analysis Refactored
 
-![<img width="1440" alt="Screen Shot 2022-09-22 at 9 27 45 AM" src="https://user-images.githubusercontent.com/8636886/191884969-03aa1318-aa9f-4658-bcc2-1cb01b6e64fb.png">]
+<img width="1440" alt="Screen Shot 2022-09-22 at 9 27 45 AM" src="https://user-images.githubusercontent.com/8636886/191884969-03aa1318-aa9f-4658-bcc2-1cb01b6e64fb.png">
 
 
 #### 2018 Stock Analysis Refactored
 
 
-![<img width="1440" alt="Screen Shot 2022-09-22 at 9 28 07 AM" src="https://user-images.githubusercontent.com/8636886/191885040-25a6665f-d025-4a46-8918-ca786ea47ac1.png">]
+<img width="1440" alt="Screen Shot 2022-09-22 at 9 28 07 AM" src="https://user-images.githubusercontent.com/8636886/191885040-25a6665f-d025-4a46-8918-ca786ea47ac1.png">
 
 
 ## Summary
